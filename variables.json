@@ -1,0 +1,5 @@
+{
+  "zone": "us-west1-b",
+  "source_image_family": "ubuntu-1804-lts",
+  "project_id": "teak-etching-298605"
+}
